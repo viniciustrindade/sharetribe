@@ -68,6 +68,10 @@ This guide contains information how to run tests.
 
 This guide shows how to write fast RSpec tests without requiring Rails environment
 
+#### [Using Fakepal](./using-fakepal.md)
+
+This guide shows how to use "Fakepal", which is a fake PayPal implementation that can be used for development purposes
+
 ## Process documentation
 
 Documentation of the development process.

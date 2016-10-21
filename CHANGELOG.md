@@ -14,6 +14,8 @@ This file follows the best practices from [keepachangelog.com](http://keepachang
 
 ### Changed
 
+- Upgrade Facebook SDK from v2.2 to v2.8 [#2666](https://github.com/sharetribe/sharetribe/pull/2666)
+
 ### Fixed
 
 - Avoid redirect to correct S3 bucket endpoint when bucket is not in `us-east-1` region [#2605](https://github.com/sharetribe/sharetribe/pull/2605)
